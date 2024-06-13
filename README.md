@@ -1,6 +1,14 @@
 # JavaScript Theory Questions.
 
-1.  Difference between == and === ?
+1.  **_What is Node ? a library or framework ?_**
+    <details>
+    <summary>Answer</summary>
+
+    - Node is neither a library nor a framework, it's a runtime envornment which helps the javascript to run inside the terminal.
+
+    - It is similar to browser but it does not provide browser based feature, instead it's provide lots of OS based feature.
+    </details>
+2.  **_Difference between == and === ?_**
     <details>
     <summary>Answer</summary>
 
